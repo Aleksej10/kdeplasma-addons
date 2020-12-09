@@ -177,7 +177,7 @@ Item {
 
     readonly property var halflingTime: [
         i18n("Sleep"), i18n("Breakfast"), i18n("Second Breakfast"), i18n("Elevenses"),
-        i18n("Lunch"), i18n("Afternoon tea"), i18n("Dinner"), i18n("Supper")
+        i18n("Lunch"), i18n("Afternoon tea"), i18n("Dinner"), i18n("Evening beer")
     ]
 
     readonly property var dayTime: [
